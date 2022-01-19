@@ -7,13 +7,14 @@
 项目以web形式，呈现了我画出的计算机学科各课程之间的关系图，学习计算机科学的各课程的参考资料，我对计算机专业的认识和我的学业规划。
 
 本项目使用vue进行开发，使用了element-plus组件库，由多个视图组成，并且能够正常运行，项目截图如下。
-![1.jpg](https://s2.loli.net/2022/01/19/UEDSnazyPXxBOlV.jpg)
+![2.PNG](https://s2.loli.net/2022/01/19/hgFwi6DzHZ1A5el.png)
 首页包含一个走马灯效果和带下拉菜单的导航栏，点击HOME便可返回首页。
-![avatar](src\results\2.png)
+![1.PNG](https://s2.loli.net/2022/01/19/RZFb8rMV7yjGThU.png)
 
-![avatar](src\results\3.png)
+![3.PNG](https://s2.loli.net/2022/01/19/RPmesEBD9zkA8vN.png)
 此页带有折叠效果
-![avatar](src\results\4.png)
+![4.PNG](https://s2.loli.net/2022/01/19/Dzf81CPJtnxjywr.png)
+
 
 很遗憾，由于本人设计相关知识的缺失，网页的美观程度仍有待提高。
 

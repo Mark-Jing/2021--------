@@ -7,7 +7,7 @@
 项目以web形式，呈现了我画出的计算机学科各课程之间的关系图，学习计算机科学的各课程的参考资料，我对计算机专业的认识和我的学业规划。
 
 本项目使用vue进行开发，使用了element-plus组件库，由多个视图组成，并且能够正常运行，项目截图如下。
-![avatar](src\results\1.png)
+![](https://cdn.luogu.com.cn/upload/image_hosting/95xuvh2m.png)
 首页包含一个走马灯效果和带下拉菜单的导航栏，点击HOME便可返回首页。
 ![avatar](src\results\2.png)
 
